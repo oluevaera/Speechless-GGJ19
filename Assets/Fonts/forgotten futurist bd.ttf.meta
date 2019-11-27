@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: e8cb440bd774642fda427a8f6f0a5663
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Forgotten Futurist
+  fontNames:
+  - Forgotten Futurist
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 21e9e2e4c750e4a6dbdaff57fa24e4c4, type: 3}
+  - {fileID: 12800000, guid: 915d20a680e654a16a1713b3f5b584d9, type: 3}
+  - {fileID: 12800000, guid: 58e516d7117e241af99c01ded56a2e57, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
